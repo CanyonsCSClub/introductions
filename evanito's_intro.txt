@@ -1,0 +1,15 @@
+hey guys its a-me, evanito
+
+github is easy and is way better than emailing code back and forth, knowing how to use it will prepare you for other code repository software in the future during your careers!
+
+
+Steps:
+1)clone the repository
+2)open it in github, and create a new branch for your changes
+3)make your changes directly in the cloned directory
+4)commit your changes to your branch and push it
+5)go onto the github website and make a pull request to get your changes marged into the master branch
+6)once a person reviews and approves your changes, you can merge the changes
+7)delete the branch and change back to master
+8)profit
+if you need any help be sure to ask me about things
